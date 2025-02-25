@@ -1,5 +1,5 @@
 function formatMessage(message, maxLength){
-    if (message.Length <= maxLength) {
+    if (message.length <= maxLength) {
         return message;
     }
     else{
